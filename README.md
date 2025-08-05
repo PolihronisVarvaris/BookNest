@@ -100,20 +100,6 @@ The application incorporates a multi-step **text preprocessing pipeline** for ad
 
 ---
 
-## 🖥️ GUI Preview
-
-+------------------------------------------------------+
-BookNest
-Search: [_________________________] [Search Button]
-------------------------------------------------------
-Title
----------------
-...
-+------------------------------------------------------+
-
-
----
-
 ## 🏁 How to Run
 
 ```bash

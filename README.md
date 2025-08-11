@@ -1,6 +1,6 @@
 # 📚 BookNest – Book Search Engine
 
-![alt text](./start.png)
+![alt text](./Banner.png)
 
 
 **BookNest** is a powerful desktop application for searching and exploring books using advanced Natural Language Processing (NLP) techniques. Built with Python and leveraging the **Goodreads Books 100k** dataset, the application offers keyword search, tag-based filtering, statistical visualizations, and intelligent text-based matching using **TF-IDF** and **Cosine Similarity**.
@@ -9,6 +9,8 @@
 > 💻 **Tools Used:** Python, Keras, NLTK, Pandas, VS Code  
 
 ---
+
+![alt text](./start.png)
 
 ## 🗂️ Features
 
